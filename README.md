@@ -1,4 +1,4 @@
-# c_workout
+# CProgramming
 Examples on basic concepts of C programming.
 
 
