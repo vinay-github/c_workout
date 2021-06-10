@@ -2,6 +2,7 @@
 
 void fun(int []);
 int *fun_array();
+
 int main() {
     int a[5];
     int *p;

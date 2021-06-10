@@ -1,6 +1,13 @@
+/*
+	To demostrate array index can be of expressions. 	
+
+*/
+
+
 #include <stdio.h>
 
 void fun(int);
+
 int main() {
 	int a = 5;
 	fun(a);

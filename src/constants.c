@@ -1,3 +1,5 @@
+/* What happens when your #define 'd and constant is of same name */
+
 #include <stdio.h>
 
 #define one 100
